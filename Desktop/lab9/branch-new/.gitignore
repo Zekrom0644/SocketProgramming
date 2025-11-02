@@ -1,0 +1,32 @@
+# Python Virtual Environments
+.venv/
+venv/
+env/
+ENV/
+
+# Python compiled files and cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDE and editor configuration files
+.vscode/
+.idea/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Sensitive information & logs
+.env
+*.log
+local_settings.py
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Test artifacts
+.pytest_cache/
+.coverage
+htmlcov/
